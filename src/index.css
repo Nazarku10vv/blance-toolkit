@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	width: 1440px;
+	margin: 0 auto;
+}
+
+a{
+	text-decoration: none;
+}
+
+input {
+	outline: none;
+	background: none;
+	padding: 7px 12px;
+	border: 1px solid red;
+}
+
+button {
+	outline: none;
+	border: none;
+	padding: 7px 12px;
+	border: 1px solid grey;
+}
